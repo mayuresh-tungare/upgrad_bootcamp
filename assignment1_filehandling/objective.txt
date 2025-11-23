@@ -1,0 +1,11 @@
+"Welcome to the assignment ‘File Handling’. 
+
+In this assignment, you will work with ecommerce data to perform operations like reading and writing files, navigating directories, and automating data management tasks. The focus is on handling product details, sales records, and descriptions efficiently. This assignment involves three commonly used file formats: CSV, JSON, and TXT. Each format serves a unique purpose and is suited to different types of data. Here's a quick overview: 
+
+CSV: CSV or comma-separated value files come with the file suffix .csv and, as the name suggests, have data values separated by commas. Each data entry is placed on a new line, and typically, the first line tends to store the names of columns.  
+
+JSON: JSON or JavaScript object notation files come with the file suffix .json and store data as key-value pairs, similar to dictionaries in Python.  
+
+TXT: TXT or text files come with the file suffix .txt and generally useful for storing single variables like strings or integers.
+ 
+By building modular functions for each operation, you will gain practical experience in file handling, maintaining data consistency, and processing structured data, all of which are key skills for developing scalable, data-driven applications."
